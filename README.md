@@ -15,7 +15,7 @@ I'm a dedicated **Full Stack Developer** passionate about creating efficient, sc
 - 🚀 Responsive Web Design & UI/UX Implementation
 - 📚 Continuous Learner & Tech Enthusiast
 - 🤝 Open to Collaboration & New Opportunities
-- 🌍 Based in Pakistan | Remote Work Friendly
+- 🌍 Based in India | Remote Work Friendly
 - ⚡ Quick Problem Solver with Attention to Detail
 
 ---
