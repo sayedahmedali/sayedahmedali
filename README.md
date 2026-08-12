@@ -58,21 +58,6 @@ I'm a passionate **Full Stack Developer** dedicated to creating efficient, scala
 </div>
 
 ---
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayedahmedali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayedahmedali&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayedahmedali&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 💼 What I Do
 
 - **Web Development** - Building responsive and interactive web applications
