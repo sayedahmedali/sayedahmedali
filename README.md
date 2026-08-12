@@ -1,14 +1,14 @@
 # 👋 Welcome! I'm Sayed Ahmed Ali
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Development;Problem+Solver;Tech+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Development;Problem+Solver;Tech+Inn[...]
 </div>
 
 ---
 
 ## 🎯 About Me
 
-I'm a passionate **Full Stack Developer** dedicated to creating efficient, scalable, and user-friendly web applications. I specialize in modern web technologies and love solving complex problems through clean, maintainable code. With experience in both frontend and backend development, I build complete solutions from concept to deployment.
+I'm a passionate **Full Stack Developer** dedicated to creating efficient, scalable, and user-friendly web applications. I specialize in modern web technologies and love solving complex problems t[...]
 
 **Key Highlights:**
 - 💻 **Full Stack Development** (Frontend & Backend)
@@ -18,6 +18,9 @@ I'm a passionate **Full Stack Developer** dedicated to creating efficient, scala
 - 🌍 **Based in India** | Remote Work Friendly
 - ⚡ **Quick Problem Solver** with Attention to Detail
 - 🔥 **1,728+ Contributions** in the last year
+
+<!-- Contributions snapshot (kept in repo by scheduled workflow) -->
+![Contributions Snapshot](./contributions.svg)
 
 ---
 
@@ -137,7 +140,6 @@ I'm a passionate **Full Stack Developer** dedicated to creating efficient, scala
 - ✅ Built responsive and scalable applications
 - ✅ Collaborated with cross-functional teams
 - ✅ Performed code reviews and quality assurance
-- ✅ Maintained and optimized existing applications
 - 🎯 Continuously improving coding skills and learning new technologies
 - 🚀 Open to exciting new opportunities and challenges
 
