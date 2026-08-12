@@ -39,7 +39,6 @@ I'm a passionate **Full Stack Developer** dedicated to creating efficient, scala
 
 ### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -64,7 +63,7 @@ I'm a passionate **Full Stack Developer** dedicated to creating efficient, scala
 - **Full Stack Projects** - End-to-end development from UI/UX to database architecture
 - **Code Quality** - Writing clean, maintainable, and well-documented code
 - **Problem Solving** - Finding efficient solutions to complex technical challenges
-- **API Development** - Building RESTful and GraphQL APIs
+- **API Development** - Building RESTful, GraphQL APIs, Minimal APIs
 - **Database Design** - Creating efficient and scalable database architectures
 
 ---
