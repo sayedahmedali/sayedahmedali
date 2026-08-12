@@ -1,7 +1,7 @@
 # 👋 Welcome! I'm Sayed Ahmed Ali
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Development;Problem+Solver;Tech+Inn[...]
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Development;Problem+Solver;Tech+Inn[...]"/>
 </div>
 
 ---
@@ -19,7 +19,12 @@ I'm a passionate **Full Stack Developer** dedicated to creating efficient, scala
 - ⚡ **Quick Problem Solver** with Attention to Detail
 - 🔥 **1,728+ Contributions** in the last year
 
-<!-- Contributions snapshot (kept in repo by scheduled workflow) -->
+<!-- Contributions: live graph first (renders in README), plus stored snapshot (updated by workflow) -->
+
+![Live Contributions](https://github.com/users/sayedahmedali/contributions)
+
+<br/>
+
 ![Contributions Snapshot](./contributions.svg)
 
 ---
