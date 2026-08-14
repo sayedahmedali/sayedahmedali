@@ -41,12 +41,10 @@ I'm a passionate **Full Stack Developer** dedicated to creating efficient, scala
 
 ### Frontend Frameworks
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -110,17 +108,14 @@ I'm a passionate **Full Stack Developer** dedicated to creating efficient, scala
 - Component-based architecture
 
 ### Backend Development
-- Node.js & Express.js
 - C# & ASP.NET Core
 - RESTful API design
 - Database management
-- Server optimization
 
 ### Full Stack Development
 - End-to-end application development
 - Database design & optimization
 - API integration
-- Deployment & DevOps basics
 - Performance optimization
 
 ---
@@ -180,24 +175,6 @@ I'm a passionate **Full Stack Developer** dedicated to creating efficient, scala
 - **Contribution Types:** Push events, Pull requests, Code reviews
 - **Development Style:** Consistent and productive
 - **Collaboration:** Strong team contributor
-
----
-
-## 💬 Philosophy
-
-> **"Code is more than just making things work; it's about creating solutions that matter, writing code that others can understand, and building a better digital future together."**
-
----
-
-## 🎯 2024 Goals
-
-- ✅ Maintain consistent contribution streak
-- ✅ Contribute to more open-source projects
-- ✅ Build 3+ full-stack applications
-- ✅ Master advanced system design concepts
-- ✅ Improve web security knowledge
-- ✅ Network with developer community
-- ✅ Share knowledge through documentation
 
 ---
 
